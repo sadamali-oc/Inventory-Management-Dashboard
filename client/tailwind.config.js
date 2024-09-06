@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config} */
+/**z @type {import('tailwindcss').Config} */
 module.exports = {
   content: [],
   theme: {
