@@ -7,7 +7,13 @@ const baseColors = [
 
   "gray",
   "red",
-  
+  "yellow",
+  "green",
+  "blue",
+  "indigo",
+  "purple",
+  "pink",
+
 ]
 
 const config: Config = {
